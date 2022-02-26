@@ -1,10 +1,10 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: '[10, 10, 10, 10, 10]'
-- text: '[1, 10, 10, 10, 10]'
 - text: '[1, 2, 3, 4, 5]'
+- text: '[10, 10, 10, 10, 10]'
 - text: ArrayIndexOutOfBoundsException
+- text: '[1, 10, 10, 10, 10]'
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:

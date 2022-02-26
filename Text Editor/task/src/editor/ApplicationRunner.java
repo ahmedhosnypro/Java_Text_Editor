@@ -1,8 +1,12 @@
 package editor;
 
 
+import javax.swing.*;
+
 public class ApplicationRunner {
+    static TextEditor textEditor;
     public static void main(String[] args) {
-        new TextEditor();
+        SwingUtilities.invokeLater(() -> textEditor = new TextEditor());
+
     }
 }

@@ -8,11 +8,19 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="#JAVA_INTERNAL" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Text Editor/task" />
+            <option value="$PROJECT_DIR$/Text Editor/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Text Editor/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Text Editor/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Text Editor/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Text Editor/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Text Editor/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes properties/Create instance" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes properties/Iterations" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes properties/Theory" />
             <option value="$PROJECT_DIR$/Topics/Anonymous classes/An anonymous class with three methods" />
             <option value="$PROJECT_DIR$/Topics/Anonymous classes/And always these rules" />
             <option value="$PROJECT_DIR$/Topics/Anonymous classes/Implement Runnable" />
@@ -26,11 +34,19 @@
             <option value="$PROJECT_DIR$/Topics/Array/Initializing an array of integers" />
             <option value="$PROJECT_DIR$/Topics/Array/Initializing an array of longs" />
             <option value="$PROJECT_DIR$/Topics/Array/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Starting threads" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Statements about starting threads" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/String processor" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Theory" />
             <option value="$PROJECT_DIR$/Topics/Functional interfaces/A lambda expression with seven arguments" />
             <option value="$PROJECT_DIR$/Topics/Functional interfaces/An invalid way to create a functional interface" />
             <option value="$PROJECT_DIR$/Topics/Functional interfaces/Statements" />
             <option value="$PROJECT_DIR$/Topics/Functional interfaces/Ternary predicate" />
             <option value="$PROJECT_DIR$/Topics/Functional interfaces/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Iterator and Iterable/Interfaces with iterator" />
+            <option value="$PROJECT_DIR$/Topics/Iterator and Iterable/Iterators and for-each" />
+            <option value="$PROJECT_DIR$/Topics/Iterator and Iterable/No  J" />
+            <option value="$PROJECT_DIR$/Topics/Iterator and Iterable/Theory" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Creating a closure" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Expression closure" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Expressions" />
@@ -38,6 +54,47 @@
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Parts of code" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Production of all numbers in the range" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Extracting big numbers from a text" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Extracting words from a text" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Find all passwords" />
+            <option value="$PROJECT_DIR$/Topics/Match results/How many times it returns true" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Match results/What do we get" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Wrong move" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/In the middle of a word" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Start or end of a word" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Card name validation and identification" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Check the clock time" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Check the date" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Illegal identifiers" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/A subset of sorted set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Removing elements" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Spell checker" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Strict superset" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Symmetric difference" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Profit" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Squares of natural numbers" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The largest element of a sequence" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The length of the sequence" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The sequence" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The smallest value" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Calculate the number of distinct characters" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Join" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Ordering the execution of threads" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Sleep" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Summing with threads" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/VeganPizza" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Waiting for a thread" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Getting current thread info" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Is thread daemon" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Thread name" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

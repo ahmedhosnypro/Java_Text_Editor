@@ -658,6 +658,19 @@ files:
         }
     }
   learner_created: false
-feedback_link: https://hyperskill.org/projects/38/stages/204/implement#comment
-status: Unchecked
-record: -1
+- name: resources/save.png
+  visible: true
+  learner_created: true
+- name: resources/open.png
+  visible: true
+  learner_created: true
+- name: src/editor/SearchWorker.java
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/5261#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">JetBrains
+    Academy</a> to continue learning.
+  time: Sat, 26 Feb 2022 22:27:08 UTC
+record: 4
